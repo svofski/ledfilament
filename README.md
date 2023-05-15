@@ -25,4 +25,4 @@ is to have opaque zones in the transparency really opaque.
 ![Red soldermask](https://pbs.twimg.com/media/CFyWmdbWoAAkuSu.jpg:large)
 
 -----
-2015 Viacheslav Slavinsky http://sensi.org/~svo
+2015 Viacheslav Slavinsky https://www.sensi.org/~svo
